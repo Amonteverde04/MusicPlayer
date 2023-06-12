@@ -1,5 +1,5 @@
 import React from "react";
-import { PRIMARY_COLOR, HEADING_COLOR, TEXT_COLOR, SECONDARY_COLOR } from "./lib/globals";
+import { PRIMARY_COLOR, SECONDARY_COLOR } from "./lib/globals";
 import { NativeBaseProvider, extendTheme, Box, HStack, VStack, IconButton, Slider, Heading, Text } from "native-base";
 import { PlayIcon, ChevronLeftIcon, ChevronRightIcon, FavouriteIcon } from "native-base";
 import { Image } from "react-native";
